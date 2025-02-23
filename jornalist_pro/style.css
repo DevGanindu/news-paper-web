@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: grid;
+    width: 220px;
+    height: 153px;
+    background-color:darkgray;
+}
+
+
+.small{
+    padding: 2px;
+    border: 2px solid black;
+    margin: 5px;
+    width: 300px;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
+
+.large{
+    width: 500px;
+    height: 250px;
+    padding: 2px;
+    border: 2px solid black;
+    margin: 5px;
+}
+
+.short{
+    border: 2px solid black;
+    margin-top: 300px;
+}
+
+
+a{
+    text-decoration:none;
+    color: black;
+}
